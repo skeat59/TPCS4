@@ -1,0 +1,5 @@
+C:\Users\epita\Desktop\TPCS4_Subject\EX1\TPCS4\bin\Debug\TPCS4.exe
+C:\Users\epita\Desktop\TPCS4_Subject\EX1\TPCS4\bin\Debug\TPCS4.pdb
+C:\Users\epita\Desktop\TPCS4_Subject\EX1\TPCS4\obj\x86\Debug\TPCS4.exe
+C:\Users\epita\Desktop\TPCS4_Subject\EX1\TPCS4\obj\x86\Debug\TPCS4.pdb
+C:\Users\epita\Desktop\TPCS4_Subject\EX1\TPCS4\obj\x86\Debug\EX1.csprojResolveAssemblyReference.cache
