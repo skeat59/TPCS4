@@ -13,7 +13,11 @@ namespace Puissance_4
         */
         private static void init_array(int n, ref int[] array)
         {
-            /* FIX ME */
+            array = new int[n];
+            for (int i = 0; i < n; i++)
+            {
+                array[i] = 0;
+            }
         }
 
         /*
@@ -23,7 +27,14 @@ namespace Puissance_4
         */
         public static void init_matrix(int n, ref int[][] matrix)
         {
-            /* FIX ME */
+            matrix = new int[n][];
+            for (int i = 0; i < matrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    matrix[i][j] = 0;
+                }
+            }
         }
 
         /*
@@ -37,9 +48,19 @@ namespace Puissance_4
         */
         private static int insert_column(int player, int[] column)
         {
-           /* FIX ME */
-            return -1;
-           /* FIX ME */
+            int i = column.GetLength(0);
+            while (column[i] != 0)
+            {
+                i--;
+            }
+            if (i != column.GetLength(0))
+            {
+                column[i] = player;
+            }
+            else
+            {
+                return -1;
+            }
         }
 
         /*

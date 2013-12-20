@@ -1,0 +1,4 @@
+C:\Users\epita\Documents\GitHub\TPCS4\TPCS4_Subject\Puissance 4\Puissance 4\bin\Debug\Puissance 4.exe
+C:\Users\epita\Documents\GitHub\TPCS4\TPCS4_Subject\Puissance 4\Puissance 4\bin\Debug\Puissance 4.pdb
+C:\Users\epita\Documents\GitHub\TPCS4\TPCS4_Subject\Puissance 4\Puissance 4\obj\x86\Debug\Puissance 4.exe
+C:\Users\epita\Documents\GitHub\TPCS4\TPCS4_Subject\Puissance 4\Puissance 4\obj\x86\Debug\Puissance 4.pdb
